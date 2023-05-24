@@ -16,4 +16,9 @@
 **konfigurasi xampp untuk mengakses codeigniter 4**
 
 **1. buka xampp lalu pilih config pada apache kemudian pilih php.ini**
+
 **2. cari ;extension=intl kemudian hapus tanda titik koma**
+
+**3. nyalakan apache dan buka shell pada xampp kemudian masuk ke directory ci4 yang terdapat didalam folder lab11_ci dalam htdocs xampp. Setelah itu coba tes dengan mengetik php spark**
+
+**4. setelah itu akan muncul code seperti yang bisa kita gunakan untuk mengakses codeigniter kita**
