@@ -11,3 +11,8 @@
 4. pada folder ci4 cari file bernama env kemudian rename menjadi .env
 
 5. buka file .env kemudian ubah CI_ENVIRONMENT = production menjadi CI_ENVIRONMENT = development kemudian save
+
+
+**konfigurasi xampp untuk mengakses codeigniter 4**
+
+**1. buka xampp lalu pilih config pada apache kemudian pilih php.ini**
