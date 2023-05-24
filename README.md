@@ -16,3 +16,4 @@
 **konfigurasi xampp untuk mengakses codeigniter 4**
 
 **1. buka xampp lalu pilih config pada apache kemudian pilih php.ini**
+**2. cari ;extension=intl kemudian hapus tanda titik koma**
